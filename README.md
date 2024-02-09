@@ -8,14 +8,14 @@ I participated in the development of an iOS application for obtaining visas to K
 
 ## Application Creating
 <p align="center">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/325f7774-bbcc-45d3-b83b-a52978e8c391", width="200"/>
-<img src="https://github.com/nsertay/portfolio/assets/97506028/ed487244-30fb-43ec-aca1-8a77ca158e30", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/325f7774-bbcc-45d3-b83b-a52978e8c391", width="200" style="margin-right: 20px;">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/ed487244-30fb-43ec-aca1-8a77ca158e30", width="200" style="margin-right: 20px;">
 <img src="https://github.com/nsertay/portfolio/assets/97506028/3d72b1d1-c3e0-4f78-97ff-b1cc627526fe", width="200"/>
 </p>
 
 ## Payment Process
 <p align="center">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/2c15fd4b-2dcb-4df8-bcea-8690540e8914", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/2c15fd4b-2dcb-4df8-bcea-8690540e8914", width="200" style="margin-right: 20px;">
 <img src="https://github.com/nsertay/portfolio/assets/97506028/bea49c17-d462-42f3-a6d4-83343a77ba45", width="200"/>
 <img src="https://github.com/nsertay/portfolio/assets/97506028/f1b2d9b4-26f3-42fe-815e-578d0ab04c32", width="200"/>
 </p>
