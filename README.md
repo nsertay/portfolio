@@ -64,13 +64,9 @@ I updated the note and task management app for both personal and collaborative u
 # [HSE KMG](https://apps.apple.com/kz/app/hse-kmg/id1523308333)
 
 I worked on updating the application for an oil and gas structure. I added features for submitting reports, applications, surveys, and emergency situations, and also fixed some bugs.
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-09 at 14 50 36])
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-09 at 14 49 40]()
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-09 at 14 49 27]()
-
 <p>
+ <img src="https://github.com/nsertay/portfolio/assets/97506028/aab498d4-f25a-4a24-96fb-c028fd38f4ca", width="200"/>
 <img src="https://github.com/nsertay/portfolio/assets/97506028/501861bd-d986-4eaf-bbae-bfef66539bbd", width="200"/>
-<img src="https://github.com/nsertay/portfolio/assets/97506028/aab498d4-f25a-4a24-96fb-c028fd38f4ca", width="200"/>
 <img src="https://github.com/nsertay/portfolio/assets/97506028/120aadce-7548-4d6d-8013-74e4fa82aec2", width="200"/>
 </p>
 
