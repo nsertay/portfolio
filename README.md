@@ -8,7 +8,7 @@
 I participated in the development of an iOS application for obtaining visas to Kazakhstan from scratch. The app enables users to get a visa from the comfort of their homes within 5-10 minutes. Additionally, it includes features for booking flights and hotels, as well as purchasing insurance.
 
 ## Application Creating
-<p align="center">
+<p>
   <img src="https://github.com/nsertay/portfolio/assets/97506028/325f7774-bbcc-45d3-b83b-a52978e8c391" width="200" style="margin-right: 10px"/>
   <img src="https://github.com/nsertay/portfolio/assets/97506028/ed487244-30fb-43ec-aca1-8a77ca158e30" width="200" style="margin-right: 10px"/>
   <img src="https://github.com/nsertay/portfolio/assets/97506028/3d72b1d1-c3e0-4f78-97ff-b1cc627526fe" width="200"/>
