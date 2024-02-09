@@ -9,8 +9,8 @@ I participated in the development of an iOS application for obtaining visas to K
 
 ## Application Creating
 <p align="center">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/325f7774-bbcc-45d3-b83b-a52978e8c391", width="200", style="margin-right: 20px;">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/ed487244-30fb-43ec-aca1-8a77ca158e30", width="200" style="margin-right: 20px;">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/325f7774-bbcc-45d3-b83b-a52978e8c391", width="200", style="margin-right: 20px">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/ed487244-30fb-43ec-aca1-8a77ca158e30", width="200", style="margin-right: 20px">
 <img src="https://github.com/nsertay/portfolio/assets/97506028/3d72b1d1-c3e0-4f78-97ff-b1cc627526fe", width="200"/>
 </p>
 
@@ -67,5 +67,30 @@ I worked on updating the application for an oil and gas structure. I added featu
 
 **Tech Used**
 - 💿 REST API
-- 🎨 UIKit, Storyboard
-- 🚘 SnapKit
+- 🎨 UIKit
+- 🚘 SnapKit, Storyboard
+
+# [CarRental]
+
+I worked on a personal project where I designed a layout for a car rental application. The goal was to create an intuitive and user-friendly interface that enhances the overall user experience. I incorporated elements that facilitate seamless navigation and efficient car selection.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/97506028/228496403-c2bdfd78-a07c-455b-95a5-f4e096161d6e.jpeg", width="200", style="margin-right: 20px;">
+<img src="https://user-images.githubusercontent.com/97506028/228496023-f8017e4c-bcc4-4067-b13a-a70022b969d4.jpeg", width="200" style="margin-right: 20px;">
+<img src="https://user-images.githubusercontent.com/97506028/228496218-0e019681-56cd-4ba7-8795-70bcd1753ba2.jpeg", width="200"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/97506028/228496227-186e9219-8de6-4e10-aaaa-e5021c0cc6cf.jpeg", width="200" style="margin-right: 20px;">
+<img src="https://user-images.githubusercontent.com/97506028/228496368-d87713e5-582c-413c-bfc1-03a3d4b9e58e.jpeg", width="200"/>
+<img src="https://user-images.githubusercontent.com/97506028/228496393-3a6e0f1f-ade8-4172-bd96-f6a207360164.jpeg", width="200"/>
+</p>
+
+**Tech Used**
+- 💿 CoreData, UserDefault
+- 🎨 UIKit,
+- 🚘 Storyboard
+- 🎬 Animations
+- 🌏 MapKit
+
+
