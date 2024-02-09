@@ -1,10 +1,10 @@
 
-![White Minimalist Elegant Neutral LinkedIn Banner](https://user-images.githubusercontent.com/76922883/205179335-3ae68df5-4547-4e42-b1ab-3e8f05ba223a.png)         
+([https://user-images.githubusercontent.com/76922883/205179335-3ae68df5-4547-4e42-b1ab-3e8f05ba223a.png](https://github.com/nsertay/portfolio/assets/97506028/1676f7dd-e402-4599-a1a9-1100df9fa305))         
  
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
 # [Clockology](https://apps.apple.com/us/app/clockology/id1456386228)
-(Contract Work)
+
 I've had the opportunity to contribute to this incredible iOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes.
 
 
