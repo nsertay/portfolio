@@ -2,7 +2,7 @@
  
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
-# [AlemSharla](https://apps.apple.com/us/app/clockology/id1456386228](https://apps.apple.com/us/app/alemsharla/id6455494702)
+# [AlemSharla](https://apps.apple.com/us/app/alemsharla/id6455494702)
 
 I've had the opportunity to contribute to this incredible iOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes.
 
