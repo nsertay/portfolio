@@ -42,39 +42,46 @@ I participated in the development of an iOS application for obtaining visas to K
 
 I updated the note and task management app for both personal and collaborative use. I created a widget, fixed bugs, and added new features.
 
-## Application Creating
 <p align="center">
 <img src="https://github.com/nsertay/portfolio/assets/97506028/00ccaea0-fa9a-48e4-87d9-85ab09d767cc", width="200", style="margin-right: 20px;">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/ed487244-30fb-43ec-aca1-8a77ca158e30", width="200" style="margin-right: 20px;">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/3d72b1d1-c3e0-4f78-97ff-b1cc627526fe", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/7c7a7d30-8744-4ccf-9c96-18049bf85dfa", width="200" style="margin-right: 20px;">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/f3d0095f-744e-4b78-af2d-7a62baac3f81", width="200"/>
 </p>
 
-## Payment Process
 <p align="center">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/2c15fd4b-2dcb-4df8-bcea-8690540e8914", width="200" style="margin-right: 20px;">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/bea49c17-d462-42f3-a6d4-83343a77ba45", width="200"/>
-<img src="https://github.com/nsertay/portfolio/assets/97506028/f1b2d9b4-26f3-42fe-815e-578d0ab04c32", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/c1f1e6f8-b81d-44d8-ae52-0b060e313866", width="200" style="margin-right: 20px;">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/4928bdaa-17b0-49c2-8463-f0f6caa5e69f", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/5f221113-d8e2-48fa-aa33-2f7e49fde717", width="200"/>
 </p>
-
-## Chat with Support and AI
-<p align="center">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/f5e0638e-6b25-479c-ae4d-cafd67488c9d", width="200"/>
-<img src="https://github.com/nsertay/portfolio/assets/97506028/6f20018a-2266-4b2b-a0ac-548c0bce9e2a", width="200"/>
-<img src="https://github.com/nsertay/portfolio/assets/97506028/d60d6768-70a6-49a1-9c23-b0beee383aa4", width="200"/>
-</p>
-
-
-
-
 
 **Tech Used**
-- 💿 Firebase
-- 👩‍🎨 MVVM
-- 🎨 UIKit
+- 💿 REST API
+- 🎨 UIKit, SwiftUI, WidgetKit
 - 🚘 SnapKit
-- 🔔 Local, FCM Notifications
+- 🔔 Local, Remote Notifications
 - 🎬 Animations
-- 📱 REST API(Alamofire)
-- 🤖 Chat with AI (OpenAI API)
+
+# [Pinta](https://apps.apple.com/us/app/pinta/id6446095459)
+
+I updated the note and task management app for both personal and collaborative use. I created a widget, fixed bugs, and added new features.
+
+<p align="center">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/00ccaea0-fa9a-48e4-87d9-85ab09d767cc", width="200", style="margin-right: 20px;">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/7c7a7d30-8744-4ccf-9c96-18049bf85dfa", width="200" style="margin-right: 20px;">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/f3d0095f-744e-4b78-af2d-7a62baac3f81", width="200"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/c1f1e6f8-b81d-44d8-ae52-0b060e313866", width="200" style="margin-right: 20px;">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/4928bdaa-17b0-49c2-8463-f0f6caa5e69f", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/5f221113-d8e2-48fa-aa33-2f7e49fde717", width="200"/>
+</p>
+
+**Tech Used**
+- 💿 REST API
+- 🎨 UIKit, SwiftUI, WidgetKit
+- 🚘 SnapKit
+- 🔔 Local, Remote Notifications
+- 🎬 Animations
 
 
