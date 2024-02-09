@@ -61,27 +61,11 @@ I updated the note and task management app for both personal and collaborative u
 - 🔔 Local, Remote Notifications
 - 🎬 Animations
 
-# [Pinta](https://apps.apple.com/us/app/pinta/id6446095459)
+# [HSE KMG](https://apps.apple.com/kz/app/hse-kmg/id1523308333)
 
-I updated the note and task management app for both personal and collaborative use. I created a widget, fixed bugs, and added new features.
-
-<p align="center">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/00ccaea0-fa9a-48e4-87d9-85ab09d767cc", width="200", style="margin-right: 20px;">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/7c7a7d30-8744-4ccf-9c96-18049bf85dfa", width="200" style="margin-right: 20px;">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/f3d0095f-744e-4b78-af2d-7a62baac3f81", width="200"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/c1f1e6f8-b81d-44d8-ae52-0b060e313866", width="200" style="margin-right: 20px;">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/4928bdaa-17b0-49c2-8463-f0f6caa5e69f", width="200"/>
-<img src="https://github.com/nsertay/portfolio/assets/97506028/5f221113-d8e2-48fa-aa33-2f7e49fde717", width="200"/>
-</p>
+I worked on updating the application for an oil and gas structure. I added features for submitting reports, applications, surveys, and emergency situations, and also fixed some bugs.
 
 **Tech Used**
 - 💿 REST API
-- 🎨 UIKit, SwiftUI, WidgetKit
+- 🎨 UIKit, Storyboard
 - 🚘 SnapKit
-- 🔔 Local, Remote Notifications
-- 🎬 Animations
-
-
