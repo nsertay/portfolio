@@ -1,5 +1,4 @@
-
-(https://github.com/nsertay/portfolio/assets/97506028/1676f7dd-e402-4599-a1a9-1100df9fa305)     
+![White Minimalist Elegant Neutral LinkedIn Banner](https://github.com/nsertay/portfolio/assets/97506028/1676f7dd-e402-4599-a1a9-1100df9fa305)     
  
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
