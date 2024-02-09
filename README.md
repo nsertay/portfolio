@@ -70,7 +70,7 @@ I worked on updating the application for an oil and gas structure. I added featu
 - 🎨 UIKit
 - 🚘 SnapKit, Storyboard
 
-# [CarRental]
+# CarRental
 
 I worked on a personal project where I designed a layout for a car rental application. The goal was to create an intuitive and user-friendly interface that enhances the overall user experience. I incorporated elements that facilitate seamless navigation and efficient car selection.
 
