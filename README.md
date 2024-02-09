@@ -27,6 +27,7 @@ I participated in the development of an iOS application for obtaining visas to K
 <img src="https://github.com/nsertay/portfolio/assets/97506028/d60d6768-70a6-49a1-9c23-b0beee383aa4", width="200"/>
 </p>
 
+**Tech Used**
 - 💿 Firebase
 - 👩‍🎨 MVVM
 - 🎨 UIKit
