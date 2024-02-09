@@ -1,3 +1,4 @@
+
 ![White Minimalist Elegant Neutral LinkedIn Banner](https://github.com/nsertay/portfolio/assets/97506028/1676f7dd-e402-4599-a1a9-1100df9fa305)     
  
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
@@ -8,7 +9,7 @@ I participated in the development of an iOS application for obtaining visas to K
 
 ## Application Creating
 <p align="center">
-<img src="https://github.com/nsertay/portfolio/assets/97506028/325f7774-bbcc-45d3-b83b-a52978e8c391", width="200" style="margin-right: 20px;">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/325f7774-bbcc-45d3-b83b-a52978e8c391", width="200"/ style="margin-right: 20px;">
 <img src="https://github.com/nsertay/portfolio/assets/97506028/ed487244-30fb-43ec-aca1-8a77ca158e30", width="200" style="margin-right: 20px;">
 <img src="https://github.com/nsertay/portfolio/assets/97506028/3d72b1d1-c3e0-4f78-97ff-b1cc627526fe", width="200"/>
 </p>
