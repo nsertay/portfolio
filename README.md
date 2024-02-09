@@ -4,7 +4,35 @@
 
 # [AlemSharla](https://apps.apple.com/us/app/alemsharla/id6455494702)
 
-I've had the opportunity to contribute to this incredible iOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes.
+I participated in the development of an iOS application for obtaining visas to Kazakhstan from scratch. The app enables users to get a visa from the comfort of their homes within 5-10 minutes. Additionally, it includes features for booking flights and hotels, as well as purchasing insurance.
+
+<p align="center">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/325f7774-bbcc-45d3-b83b-a52978e8c391", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/ed487244-30fb-43ec-aca1-8a77ca158e30", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/3d72b1d1-c3e0-4f78-97ff-b1cc627526fe", width="200"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/2c15fd4b-2dcb-4df8-bcea-8690540e8914", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/bea49c17-d462-42f3-a6d4-83343a77ba45", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/f1b2d9b4-26f3-42fe-815e-578d0ab04c32", width="200"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/nsertay/portfolio/assets/97506028/f5e0638e-6b25-479c-ae4d-cafd67488c9d", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/6f20018a-2266-4b2b-a0ac-548c0bce9e2a", width="200"/>
+<img src="https://github.com/nsertay/portfolio/assets/97506028/d60d6768-70a6-49a1-9c23-b0beee383aa4", width="200"/>
+</p>
+
+- 💿 Firebase
+- 👩‍🎨 MVVM
+- 🎨 UIKit
+- 🚘 SnapKit
+- 🔔 Local, FCM Notifications
+- 🎬 Animations
+- 📱 REST API(Alamofire)
+- 🤖 Chat with AI (OpenAI API)
+
 
 ## Sneak Peek 👀
 Here are a few updates I've been hacking away at for Magic Budget. This update is yet to be ready for the App Store, but here's a sneak peek at some new things coming to Magic Budget in the next update!
